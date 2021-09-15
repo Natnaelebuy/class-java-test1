@@ -7,3 +7,5 @@ This is my first java class
 We have class today 
 
 what time is it start the game 
+
+the game was cool
